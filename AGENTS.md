@@ -16,7 +16,7 @@ Cargo y configuro el proyecto y el driver JDBC en mi entorno de desarrollo.
 
 
 
-Ejecuto los scripts SQL proporcionados para crear el esquema, los triggers y cargar los datos iniciales en la base de datos SQLite (gasolinera.db).
+Ejecuto los scripts SQL para luego crear el esquema, los triggers (para crear los tablas) y cargar los datos en la base de datos SQLite.
 
 
 
