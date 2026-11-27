@@ -1,0 +1,22 @@
+RA2-JDBC/src/model/
+├── personas/                      
+│   ├── Cliente.java
+│   ├── Empleado.java
+│   └── Proveedor.java
+│
+├── productos/                     
+│   ├── Producto.java
+│   ├── ProductoEnvasado.java
+│   └── ProductoGranel.java
+│
+├── ventas/                        
+│   ├── ConfiguracionFacturacion.java
+│   ├── Devolucion.java
+│   ├── LineaVenta.java
+│   └── Venta.java
+│
+└── instalaciones/                 
+    ├── Estacion.java
+    ├── Incidencia.java
+    └── Surtidor.java
+
