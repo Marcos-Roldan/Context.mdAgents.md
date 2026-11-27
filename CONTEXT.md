@@ -2,7 +2,7 @@
 
 
 
-###### Aplicación en Java (JDBC + patrón DAO) para gestionar una gasolinera conectada a una base de datos SQLite, con soporte para importar/exportar datos en CSV y JSON.
+###### Aplicación en Java para configurar una gasolinera conectada a una base de datos SQLite, con soporte para ejecutar datos en CSV y JSON.
 
 ###### 
 
@@ -96,5 +96,5 @@
 
 
 
-Lo divido en Base de Datos (SQLite) para el almacenamiento y scripts SQL, y en Código Java para la lógica del negocio, DAO y modelos organizados por carpetas.
+Lo divido en Base de Datos SQLite para el almacenamiento y los scripts de SQL, y en Código Java para la lógica, DAO y todo organizado en carpetas.
 

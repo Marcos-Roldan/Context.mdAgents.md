@@ -20,11 +20,11 @@ Ejecuto los scripts SQL para luego crear el esquema, los triggers (para crear lo
 
 
 
-Utilizar y probar las clases de acceso a datos (ClienteDAO, PagosDAO) y las utilidades de almacenamiento en formatos JSON y CSV.
+Utilizar y probar las clases y las utilidades de almacenamiento en formatos JSON y CSV.
 
 
 
-Cualquier duda o alguna contradicción me preguntara o me corregirá.
+Cualquier duda o alguna contradicción que se le pregunte a la IA me preguntara o me corregirá.
 
 
 
@@ -38,11 +38,11 @@ Lenguaje: Java
 
 
 
-Base de Datos: SQLite (gasolinera.db)
+Base de Datos: SQLite
 
 
 
-Conectividad: Driver SQLite JDBC (archivo .jar)
+Conectividad: Driver SQLite JDBC
 
 
 
@@ -68,7 +68,7 @@ Acceso a la lectura y escritura de ficheros de datos JSON y CSV.
 
 ### 
 
-### Preguntas o dudas que me ha ido haciendo
+### Preguntas o dudas que me ha ido haciendo la IA
 
 
 
