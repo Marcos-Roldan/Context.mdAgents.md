@@ -2,7 +2,7 @@
 
 
 
-Desarrollar una aplicación en Java que gestione la conexión y operaciones mediante JDBC con una base de datos SQLite para un sistema de gasolinera, implementando el patrón DAO y manipulación de datos.
+Desarrollo una aplicación en Java para gestionar la conexión y las operaciones mediante JDBC con la base de datos SQLite para el proyecto de la gasolinera, implementando el patrón DAO y manipulación de datos.
 
 
 
@@ -12,11 +12,11 @@ Desarrollar una aplicación en Java que gestione la conexión y operaciones medi
 
 
 
-Cargar y configurar el proyecto y el driver JDBC en mi entorno de desarrollo.
+Cargo y configuro el proyecto y el driver JDBC en mi entorno de desarrollo.
 
 
 
-Ejecutar los scripts SQL proporcionados para crear el esquema, los triggers y cargar los datos iniciales en la base de datos SQLite (gasolinera.db).
+Ejecuto los scripts SQL proporcionados para crear el esquema, los triggers y cargar los datos iniciales en la base de datos SQLite (gasolinera.db).
 
 
 
@@ -99,6 +99,4 @@ Acceso a la lectura y escritura de ficheros de datos JSON y CSV.
 
 
 3\. JAVA se centra en el autocommit, es decir, lanzar las consulas y las operaciones. SQLite se centra en los triggers o tablas (CREATE TABLE).
-
-
 
